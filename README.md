@@ -1,0 +1,2 @@
+# Medical-Plant-Detection-using-YOLO-V8-and-Generative-AI
+This project focuses on the development of an intelligent and user-friendly web application that can accurately detect medicinal plants using deep learning techniques. By leveraging the power of YOLOv8 (You Only Look Once) object detection model and Streamlit, this application allows users to upload images of plants and receive real-time prediction
