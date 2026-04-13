@@ -197,31 +197,14 @@ streamlit run Medical_Plant_Detection.py
 ---
 ---
 
-## 👨‍💻 About Me
-
-Hi, I’m **Rohith Boppana** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
-
-I'm deeply interested in building real-world tech solutions that combine data, intelligence, and intuitive design. My academic journey and hands-on projects reflect a strong foundation in both theory and practical application.
-
-### 👇 My Core Interests
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🔍 Data Science & Analytics   
-- 📊 BI Dashboards & Predictive Modeling  
-- 💡 Problem-Solving with Scalable Technologies
-
-I enjoy translating business needs and data insights into impactful software solutions that solve real problems and enhance user experiences.
-
----
 
 ## 🔗 Let’s Connect
 
 📫 **LinkedIn**  
 Let’s connect and grow professionally:  
-[linkedin.com/in/rohith-boppana-39ab57279](https://www.linkedin.com/in/rohith-boppana-39ab57279/)
+[linkedin.com/in/anisetty-sai-prajwin-536742306/](https://www.linkedin.com/in/anisetty-sai-prajwin-536742306/)
 
-🌐 **Portfolio**  
-Explore my latest work, skills, and projects here:  
-[rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
+
 
 ---
 
